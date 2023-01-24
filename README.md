@@ -4,7 +4,7 @@
 
 <b>
 - 🔭 I’m currently working on Java, C and Web <br>
-- 🌱 I’m currently learning .NetCore and React <br>
+- 🌱 I’m currently learning HTML-CSS and React <br>
 - 💬 Ask me about C and Java <br>
 - 📫 How to reach me: omer.formal@gmail.com <br>
 </b>
