@@ -1,5 +1,5 @@
 
-<h2> Hi there 👋 I'm Mer. I am a second year software engineering student. I learn, work and improve myself in many languages such as C, C#, Java, Javascript, Python, Dart, HTML-CSS and React Native</h2>
+<h2> Hi there 👋 I'm Mer. I am a second year software engineering student. I learn, work and improve myself in many languages such as C, C#, Java, Javascript, Python, HTML-CSS and React Native</h2>
 <hr>
 
 <b>
