@@ -8,3 +8,4 @@
 - 💬 Ask me about C and Java <br>
 - 📫 How to reach me: omer.formal@gmail.com <br>
 </b>
+<br> https://linktr.ee/omersahin
