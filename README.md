@@ -6,6 +6,6 @@
 - 🔭 I’m currently working on Java, C and Web <br>
 - 🌱 I’m currently learning HTML-CSS and JavaScript <br>
 - 💬 Ask me about C and Java <br>
-- 📫 How to reach me: <b> <h3> omer.formal@gmail.com </h3> <b/> <br>
+- 📫 How to reach me: <b> <p> <h3> omer.formal@gmail.com </h3> </p> <b/> <br>
 </b>
 <br> https://linktr.ee/omersahin
