@@ -7,5 +7,4 @@
 - 🌱 I’m currently learning HTML-CSS and JavaScript <br>
 - 💬 Ask me about C and Java <br>
 - 📫 How to reach me: <b> omer.formal@gmail.com <b/> <br>
-</b>
 <br> - Other Accounts: https://linktr.ee/omersahin
