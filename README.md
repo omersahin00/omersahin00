@@ -3,8 +3,8 @@
 <hr>
 
 
-- 🔭 I’m currently working on Java, C and Web <br>
-- 🌱 I’m currently learning HTML-CSS and JavaScript <br>
-- 💬 Ask me about C and Java <br>
+- 🔭 I’m currently working on C, C# and .Net <br>
+- 🌱 I’m currently learning .Net and Unity <br>
+- 💬 Ask me about C, Java, C# and Unity <br>
 - 📫 How to reach me: <b> omer.formal@gmail.com <b/> <br>
-- Other Accounts: https://linktr.ee/omersahin
+- 🔗 Other Accounts: https://linktr.ee/omersahin
