@@ -3,8 +3,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on C, C# and .Net <br>
+- 🔭 I’m currently working on .Net and Unity <br>
 - 🌱 I’m currently learning .Net and Unity <br>
-- 💬 Ask me about C, Java, C# and Unity <br>
 - 📫 How to reach me: <b> omer.formal@gmail.com <b/> <br>
 - 🔗 Other Accounts: https://linktr.ee/omersahin
