@@ -6,4 +6,3 @@
 - 🔭 I’m currently working on .Net and Unity <br>
 - 🌱 I’m currently learning .Net and Unity <br>
 - 📫 How to reach me: <b> omer.formal@gmail.com <b/> <br>
-- 🔗 Other Accounts: https://linktr.ee/omersahin
