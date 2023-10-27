@@ -3,6 +3,6 @@
 <hr>
 
 
-- 🔭 I’m currently working on .Net and Unity <br>
-- 🌱 I’m currently learning .Net and Unity <br>
+- 🔭 I’m currently working on ASP.Net and Unity <br>
+- 🌱 I’m currently learning ASP.Net and Unity <br>
 - 📫 How to reach me: <b> omer.formal@gmail.com <b/> <br>
