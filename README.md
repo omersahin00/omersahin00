@@ -1,8 +1,8 @@
 <h2> Hi there 👋 I'm Ömer. I am a third year software engineering student. I learn, work and improve myself in many languages and platforms. </h2>
 <h3>
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="border: none;">
         <ul>
           <li> C++ </li>
           <li> C# </li>
@@ -15,7 +15,7 @@
           <li> Express.JS </li>
         </ul>
       </td>
-      <td>
+      <td style="border: none;">
         <ul>
           <li> React Native </li>
           <li> .Net Core </li>
