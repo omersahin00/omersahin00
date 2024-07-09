@@ -26,5 +26,5 @@
 <hr>
 
 - 🔭 I’m currently working on React and Node.JS <br>
-- 🌱 I’m currently learning React, Unity and NodeJS <br>
+- 🌱 I’m currently learning Machine Learning <br>
 - 📫 How to reach me: <b> omer.formal@gmail.com <b/> <br>
