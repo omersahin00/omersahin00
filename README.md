@@ -1,5 +1,5 @@
 <h2> Hi there 👋 I'm Ömer. I am a third year software engineering student. I learn, work and improve myself in many languages and platforms. </h2>
-<h3>
+<h5>
   <ul>
     <li> C++ </li>
     <li> C# </li>
@@ -20,7 +20,7 @@
     <li> Unity </li>
     <li> Git </li>
   </ul>
-</h3>
+</h5>
 
 <hr>
 
