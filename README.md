@@ -18,7 +18,7 @@
     <li> GraphQL </li>
     <li> Docker </li>
     <li> Unity </li>
-    <li> Git </li>
+    <li> Git Systems </li>
   </ul>
 </h4>
 
