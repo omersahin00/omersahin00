@@ -10,6 +10,7 @@
     <li> React.JS </li>
     <li> Node.JS </li>
     <li> Express.JS </li>
+    <li> Sequelize </li>
     <li> React Native </li>
     <li> .Net Core </li>
     <li> RethinkDB </li>
