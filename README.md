@@ -1,7 +1,6 @@
-
 <h2> Hi there 👋 I'm Ömer. I am a third year software engineering student. I learn, work and improve myself in many languages and platforms. </h2>
 <h3>
-  <ul>
+  <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
     <li> C++ </li>
     <li> C# </li>
     <li> Java </li>
