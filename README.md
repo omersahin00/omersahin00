@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I'm Ömer. I am a fourth year software engineering student. I learn, work and improve myself in many languages and platforms. </h2>
+<h2> Hi there, I'm Ömer. I am a fourth year software engineering student. I learn, work and improve myself in many languages and platforms. </h2>
 <h4>
   <ul>
     <li> C++ </li>
