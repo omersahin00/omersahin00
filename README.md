@@ -1,5 +1,5 @@
 <h1 align="center">Ömer Şahin</h1>
-<h3>I am a fourth year software engineering student. I learn, work and improve myself in many languages and platforms.</h3>
+<h3 align="center">I am a fourth year software engineering student. I learn, work and improve myself in many languages and platforms.</h3>
 
 - 🔭 I’m currently working on **React and Node.JS**
 
