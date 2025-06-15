@@ -1,6 +1,6 @@
 <h1 align="center">Ömer Şahin</h1>
 <p align="center"><strong>Software Engineer</strong></p>
-<h3 align="center">I work with various technologies, constantly learning and improving myself.</h3>
+<h3>I work with various technologies, constantly learning and improving myself.</h3>
 
 - 🔭 I’m currently working on **React and Node.JS**
 
