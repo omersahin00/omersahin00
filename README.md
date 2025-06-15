@@ -2,7 +2,7 @@
 <p align="center"><strong>Software Engineer</strong></p>
 <h3>I work with various technologies, constantly learning and improving myself.</h3>
 
-- 🔭 I’m currently working on **React and Node.JS**
+- 🔭 I’m currently working on **Go Lang, Node.JS and Next.JS**
 
 - 🌱 I’m currently learning **Machine Learning**
 
