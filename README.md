@@ -1,5 +1,6 @@
 <h1 align="center">Ömer Şahin</h1>
-<h3 align="center">I am a fourth year software engineering student. I learn, work and improve myself in many languages and platforms.</h3>
+<h2 align="center">Software Engineer</h2>
+<h3 align="center">I work with various technologies, constantly learning and improving myself.</h3>
 
 - 🔭 I’m currently working on **React and Node.JS**
 
