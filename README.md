@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **omer.formal@gmail.com**
+- 📫 How to reach me **omersahin.eng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
