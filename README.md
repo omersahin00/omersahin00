@@ -9,7 +9,7 @@
 - 📫 How to reach me **omersahin.eng@gmail.com**
 
 ### Connect with me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ömer-şahin-922185254/) &nbsp; <a href="https://www.omersahin.bio"><img src="https://www.omersahin.bio/favicon.ico" height="48" width="48" alt="omersahin.bio" style="border-radius: 20%" /></a>
+<a href="https://www.omersahin.bio"><img src="https://www.omersahin.bio/favicon.ico" height="48" width="48" alt="omersahin.bio" style="border-radius: 20%" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
