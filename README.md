@@ -2,11 +2,11 @@
 <p align="center"><strong>Software Engineer</strong></p>
 <h3>I work with various technologies, constantly learning and improving myself.</h3>
 
-- 🔭 I’m currently working on **Go Lang, Node.JS, Next.JS and ReactNative**
+- I’m currently working on **Go Lang, Node.JS, Next.JS and ReactNative**
 
-- 🌱 I’m currently learning **Machine Learning**
+- I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **omersahin.eng@gmail.com**
+- How to reach me **omersahin.eng@gmail.com**
 
 ### Connect with me:
 <a href="https://www.omersahin.bio"><img src="https://www.omersahin.bio/favicon.ico" height="48" width="48" alt="omersahin.bio" style="border-radius: 20%" /></a>
